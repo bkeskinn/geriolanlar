@@ -1,0 +1,2 @@
+# geriolanlar
+Geride kalan kodlar
